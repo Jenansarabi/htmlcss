@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.container  {
+    background-color: rgb(129, 184, 194);
+    display: absoulte;
+    justify-content: center;
+    padding: 3rem;
+}
+
+html { 
+    background: url(images/bg.) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
